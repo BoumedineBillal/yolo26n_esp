@@ -13,6 +13,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .ipynb_checkpoints/
+runs/
 
 # Output Directory (Training Artifacts)
 # Uncomment if you want to exclude trained models from git
