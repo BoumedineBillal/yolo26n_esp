@@ -34,15 +34,15 @@ By leveraging a custom dual-head architecture and direct regression (`RegMax=1`)
 ---
 <br>
 
-> [!IMPORTANT]
-> ### 🚀 Upcoming Feature: Instance Segmentation (YOLO26n-Seg)
+> [!NOTE]
+> ### 🚀 What's Next?
 > 
-> I am actively developing the **YOLO26n-Seg** port for ESP32-P4. Unlike standard detection, this will enable **real-time pixel-level mask generation**, allowing for precise object boundary separation on the edge.
+> I am considering porting **YOLO26n-Seg** (Instance Segmentation) to the ESP32-P4 to enable pixel-level masks on the edge.
 >
-> **🔒 Unlock Condition:**
-> I will open-source the full Segmentation Pipeline (QAT + C++ Deployment) once this repository reaches **200 Stars ⭐**.
+> **Support the Project:**
+> If you find this repository helpful, please consider giving it a **Star ⭐**. 
 >
-> *Help me reach this milestone by starring the project!*
+> Your support is my main motivation! If this project gains enough traction, I will prioritize building and open-sourcing the Segmentation pipeline next.
 
 <br>
 ---
