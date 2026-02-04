@@ -1,0 +1,9 @@
+## IDF Component Manager Manifest File
+## Auto-generated for YOLOv26n Inference
+## Variant: inference
+## Quantization: qat (int8)
+
+dependencies:
+  espressif/esp-dl:
+    version: "^3.1.0"
+    override_path: "../../esp-dl/esp-dl"

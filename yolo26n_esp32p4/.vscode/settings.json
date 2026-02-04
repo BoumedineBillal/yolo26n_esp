@@ -1,0 +1,17 @@
+{
+  "idf.portWin": "COM3",
+  "idf.openOcdConfigs": [
+    "board/esp32p4-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "OPENOCD_USB_ADAPTER_LOCATION": "1-8",
+    "IDF_TARGET": "esp32p4"
+  },
+  "clangd.path": "c:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=**",
+    "--compile-commands-dir=c:\\Users\\orani\\bilel\\git_projects\\yolo26\\version1_yolo26\\quantize_yolo26n_clean\\yolo26n_qat_output\\yolo26n_esp32_deploy\\build"
+  ],
+  "idf.flashType": "JTAG"
+}

@@ -1,0 +1,19 @@
+# ESP-IDF Project (yolo26n_esp32p4)
+yolo26n_esp32p4/build/
+yolo26n_esp32p4/sdkconfig
+yolo26n_esp32p4/dependencies.lock
+yolo26n_esp32p4/managed_components/
+yolo26n_esp32p4/.clangd/
+
+# External Libraries (Submodules/Cloned)
+esp-dl/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Output Directory (Training Artifacts)
+# Uncomment if you want to exclude trained models from git
+# output/
