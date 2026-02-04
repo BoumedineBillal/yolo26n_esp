@@ -32,6 +32,20 @@ By leveraging a custom dual-head architecture and direct regression (`RegMax=1`)
 </div>
 
 ---
+<br>
+
+> [!IMPORTANT]
+> ### 🚀 Upcoming Feature: Instance Segmentation (YOLO26n-Seg)
+> 
+> We are actively developing the **YOLO26n-Seg** port for ESP32-P4. Unlike standard detection, this will enable **real-time pixel-level mask generation**, allowing for precise object boundary separation on the edge.
+>
+> **🔒 Unlock Condition:**
+> We will open-source the full Segmentation Pipeline (QAT + C++ Deployment) once this repository reaches **200 Stars ⭐**.
+>
+> *Help us reach this milestone by starring the project!*
+
+<br>
+---
 
 <div style="margin-bottom: 25px;">
     <h3 style="border-bottom: none; margin-bottom: 10px; color: #fbfbfb;">Bus Detection Analysis</h3>
